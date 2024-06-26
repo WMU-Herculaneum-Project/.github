@@ -1,1 +1,2 @@
-# .github
+# WMU Herculaneum Project
+
